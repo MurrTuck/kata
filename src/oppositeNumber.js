@@ -6,4 +6,4 @@ opposite = (number) => {
     return number * -1
 }
 
-console.log(opposite(27))
+// console.log(opposite(27))
