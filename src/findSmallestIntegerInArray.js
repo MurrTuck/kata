@@ -16,7 +16,7 @@ findSmallestInt = (args) => {
 
 const smallInteger = findSmallestInt([34, -345, -1, 100])
 
-console.log(smallInteger)
+// console.log(smallInteger)
 
 
 const smallest = (arr) => {
@@ -25,4 +25,4 @@ const smallest = (arr) => {
 
 const newArr = smallest([34, 15, 88, 2])
 
-console.log(newArr)
+// console.log(newArr)
