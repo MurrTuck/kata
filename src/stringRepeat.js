@@ -7,9 +7,9 @@ repeatStr = (n, s) => {
     return str.repeat(n);
 }
 
-const newString = repeatStr(17, 'Forest Gump ')
+// const newString = repeatStr(10, 'String Repeat ')
 
-console.log(newString)
+// console.log(newString)
 
 
 // classmates code
